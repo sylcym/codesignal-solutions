@@ -1,4 +1,4 @@
-unction areSimilar(a, b) {
+function areSimilar(a, b) {
   let count = 0;
   
   if (a.length !== b.length) return false;
